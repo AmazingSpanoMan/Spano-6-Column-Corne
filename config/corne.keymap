@@ -86,6 +86,7 @@
         };
 
         Creative {
+            display-name = "Art";
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &to 0
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
@@ -95,6 +96,7 @@
         };
 
         WoW {
+            display-name = "WoW";
             bindings = <
 &kp LC(NUMBER_6)  &kp LC(NUMBER_7)  &kp LC(NUMBER_3)  &kp NUMBER_3  &kp LC(NUMBER_4)  &kp LC(NUMBER_5)    &kp ESCAPE  &trans  &trans  &trans  &trans  &to 0
 &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3      &kp W         &kp NUMBER_4      &kp NUMBER_5        &Cheetah    &trans  &trans  &trans  &trans  &trans
